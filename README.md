@@ -1,2 +1,3 @@
-# Zomato-landing-page-with-HTML-and-CSS
-Recreating Zomato landing page UI using only HTML and CSS
+# Zomato-landing-page-120822
+<img src="zomato-1.png">
+<img src="zomato-2.png">
